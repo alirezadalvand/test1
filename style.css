@@ -1,0 +1,21 @@
+.first .second{
+    background-color: blue;
+    color: rgb(193, 208, 235);
+    font-style: oblique;
+    border:dotted darkgoldenrod 4px;
+    font-size: x-large;
+    margin: 450px;
+    text-align: center;
+    width: 75%;
+    border-radius: 8px;
+}
+
+.third img{
+    width: 400px;
+    height: 400px;
+  border-radius: 100%;
+  border: solid black 4px;
+  text-align: center;
+  margin-top: 5px;
+  margin-left: 310px;
+}
